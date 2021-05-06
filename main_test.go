@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 )
-
+//uniTest
 func TestAdder(t *testing.T) {
 	res := adder(1, 1)
 	if res != 2 {
