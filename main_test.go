@@ -10,7 +10,6 @@ func TestAdder(t *testing.T) {
 		t.Errorf("expected 2, got: %d", res)
 	}
 }
-//uniTest
 
 
 
