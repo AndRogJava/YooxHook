@@ -10,7 +10,7 @@ func TestAdder(t *testing.T) {
 		t.Errorf("expected 2, got: %d", res)
 	}
 }
-
+//uniTest
 func TestAdderB(t *testing.T) {
 	res := adder(2, 1)
 	if res != 3 {
